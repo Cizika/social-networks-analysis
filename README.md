@@ -9,7 +9,7 @@ Comparação e classificação de redes sociais com base nos modelos de Redes Co
 
 ## Metodologia
 A análise será realizada da seguinte forma:
-* Selecionar algumas redes sociais para análise;
+* Selecionar algumas redes sociais para análise (http://konect.cc/categories/Social/);
 * Para cada rede social, gerar cerca de 30 redes a partir dos modelos ER, BA, WS, etc, com o mesmo N e grau médio da rede real;
 * Calcular medidas para cada rede, tais como distância, transitividade, etc;
 * Projetar em 2D as redes e os modelos;
