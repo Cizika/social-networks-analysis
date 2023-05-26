@@ -1,5 +1,11 @@
 # Análise e Classificação de Redes Sociais
-Comparação e classificação de redes sociais com base nos modelos de Redes Complexas estudados na disciplina SME0130 administrada pelo Prof. Francisco Rodrigues.
+Comparação e classificação de redes sociais com base nos modelos de Redes Complexas estudados na disciplina SME0130 administrada pelo Prof. Francisco Rodrigues. 
+
+## Integrantes
+* Alexandre Eduardo de Souza Jesus - 12559506
+* Gustavo Silva de Oliveira - 12567231
+* Lucas Ivars Cadima Ciziks - 12559472
+* Paloma Botto de Medeiros Serrão - 12689641
 
 ## Metodologia
 A análise será realizada da seguinte forma:
