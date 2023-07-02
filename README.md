@@ -3,6 +3,7 @@ Comparação e classificação de redes sociais com base nos modelos de Redes Co
 
 ## Integrantes
 * Alexandre Eduardo de Souza Jesus - 12559506
+* Flávio Salles - 11218809
 * Gustavo Silva de Oliveira - 12567231
 * Lucas Ivars Cadima Ciziks - 12559472
 * Paloma Botto de Medeiros Serrão - 12689641
